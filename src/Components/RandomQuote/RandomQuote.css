@@ -4,9 +4,9 @@
     align-items: center;
     margin: auto;
     margin-top: 250px;
-    background-color: rgb(0, 0, 232);
+    background-color: #4418be;
     width: 800px;
-    border-radius: 15px;
+    border-radius: 20px;
 }
 
 .quote {
@@ -18,7 +18,7 @@
 }
 
 .line {
-    width: 700px;
+    width: 690px;
     height: 1px;
     background: white;
 }
@@ -34,7 +34,7 @@
 .author {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 500;
 }
 
